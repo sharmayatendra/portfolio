@@ -1,9 +1,9 @@
 function AboutMe() {
   return (
     <header className="hero">
-      <img className="hero-img" src="hero.svg" alt="hero-image" />
+      <img className="hero-img" src="hero.svg" alt="hero" />
       <h1 className="hero-heading">
-        Yatendra the <span className="heading-inverted"> Web Developer</span>
+        Yatendra - <span className="heading-inverted"> Software Engineer</span>
       </h1>
     </header>
   );
