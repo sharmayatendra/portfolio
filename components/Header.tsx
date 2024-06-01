@@ -15,9 +15,9 @@ function Header() {
             btnType="primary"
           ></LinkButton>
         </li>
-        <li className="list-inline-item">
+        {/* <li className="list-inline-item">
           <LinkButton label="Blogs" url={"#"} btnType="primary"></LinkButton>
-        </li>
+        </li> */}
       </ul>
     </nav>
   );
