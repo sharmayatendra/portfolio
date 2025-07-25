@@ -320,7 +320,7 @@ export default function Portfolio() {
               className="flex justify-center"
             >
               <motion.a
-                href="https://drive.google.com/file/d/1FMexexZ5ZCvCatZJ0kFP_R2LZQVPPWUS/view?usp=sharing"
+                href="https://drive.google.com/file/d/13S4mLfKlKsY_Mf1Ree-qzxnZx4fJx9LW/view?usp=sharing"
                 target="_blank"
                 rel="noopener noreferrer"
                 whileHover={{ scale: 1.05 }}
